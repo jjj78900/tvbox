@@ -1,0 +1,152 @@
+{
+    "urls": [
+        {
+            "url": "https://pastebin.com/raw/sbPpDm9G",
+            "name": "1号线路"
+        }, 
+        {
+            "url": "https://kjsc0310.github.io/tvy/jk9.json",
+            "name": "2号线路"
+        }, 
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "3号线路"
+        },
+        {
+            "url": "https://out.zxglife.top/down.php/5da920895444ba485dde96b5425b8a67.txt",
+            "name": "4号线路"
+        },
+        {
+            "url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
+            "name": "5号线路"
+        },
+        {
+            "url": "http://home.jundie.top:81/TVBox/yosakoi.json",
+            "name": "6号线路"
+        },
+        {
+            "url": "http://s.nxw.so/vip",
+            "name": "7号线路"
+        },
+        {
+            "url": "https://raw.liucn.cc/box/m.json",
+            "name": "8号线路"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "9号线路"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "name": "10号线路"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "11号线路"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "12号线路"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "13号线路"
+        },
+        {
+            "url": "https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+            "name": "14号线路"
+        },
+        {
+            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json",
+            "name": "15号线路"
+        },
+        {
+            "url": "https://ju.binghe.ga/4.txt",
+            "name": "16号线路"
+        },
+        {
+            "url": "https://liu673cn.github.io/box/m.json",
+            "name": "17号线路"
+        },
+        {
+            "url": "http://xn--4bra.live/%E7%8C%AB",
+            "name": "18号线路"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "19号线路"
+        },
+        {
+            "url": "https://pastebin.com/raw/gtbKvnE1",
+            "name": "20号线路"
+        },
+        {
+            "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
+            "name": "21号线路"
+        },
+        {
+            "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/TVBOX/iqiqgr.json",
+            "name": "22号线路"
+        },
+        {
+            "url": "https://d.looks.wang/945KM",
+            "name": "23号线路"
+        },
+        {
+            "url": "https://hutool.ml/tang",
+            "name": "24号线路"
+        },
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "25号线路"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "26号线路"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "27号线路"
+        },
+        {
+            "url": "http://9xi4o.tk/0725.json",
+            "name": "28号线路"
+        },
+        {
+            "url": "http://www.dmtv.ml/mao/single.json",
+            "name": "29号线路"
+        },
+        {
+            "url": "http://pandown.pro/tvbox/tvbox.json",
+            "name": "30号线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "31号线路"
+        },
+        {
+            "url": "https://神器每日推送.tk/pz.json",
+            "name": "32号线路"
+        },
+        {
+            "url": "http://饭太硬.ga/x/o.json",
+            "name": "33号线路"
+        },
+        {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "34号线路"
+        },
+        {
+            "url": "http://drpy.site/js1",
+            "name": "35号线路"
+        },
+        {
+            "url": "https://agit.ai/xiaohewanwan/jar/raw/branch/main/Avatar.json",
+            "name": "36号线路"
+        },
+        {
+            "url": "https://try.gitea.io/xcxc8/mytv/raw/branch/main/TV.json",
+            "name": "37号线路"
+        }  
+    ]
+}
